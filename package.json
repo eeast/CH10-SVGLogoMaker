@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "jest"
   },
   "keywords": [],
@@ -15,6 +16,6 @@
   "dependencies": {
     "color": "^4.2.3",
     "fs": "^0.0.1-security",
-    "inquirer": "^9.1.5"
+    "inquirer": "^8.2.5"
   }
 }
